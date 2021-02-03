@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ea48342-0918-40e5-9c70-4fa95c0b7395" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/springcloud-config.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +46,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -74,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612363620451</updated>
-      <workItem from="1612363623853" duration="518000" />
+      <workItem from="1612363623853" duration="1758000" />
     </task>
     <task id="LOCAL-00001" summary="这是springCloud-config的测试">
       <created>1612363805004</created>
@@ -83,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612363805004</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="这是springCloud-config的测试">
+      <created>1612364209547</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612364209547</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,13 +97,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="这是springCloud-config的测试" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="530" y="128" key="CommitChangelistDialog2" timestamp="1612363803305">
+    <state x="530" y="128" key="CommitChangelistDialog2" timestamp="1612365471290">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="530" y="128" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1612363803305" />
-    <state x="880" y="166" key="SettingsEditor" timestamp="1612364143104">
+    <state x="530" y="128" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1612365471290" />
+    <state x="1374" y="274" key="FileChooserDialogImpl" timestamp="1612365420678">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="880" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612364143104" />
+    <state x="1374" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612365420678" />
+    <state x="880" y="166" key="SettingsEditor" timestamp="1612365383248">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612365383248" />
   </component>
 </project>
